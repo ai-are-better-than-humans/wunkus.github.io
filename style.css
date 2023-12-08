@@ -1,0 +1,77 @@
+
+body {
+  background-color: coral;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+.title{
+  text-align: right;
+  color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: "Comic Sans MS";
+  font-size: 60px;
+  margin-right: 10pc;
+}
+
+.nav{
+  float: right;
+  margin-right: 10px;
+  font-style: oblique;
+  font-size: 18px
+}
+
+.cited-img{  
+  width:140px;
+  display:block;
+  float:right;
+  text-align:center;
+  font-size: 5px;
+  font-style: italic;
+}
+
+.cited-img2{  
+  text-align:center;
+  font-size: 5px;
+  font-style: italic;
+}
+
+.home{
+  float: left;
+  margin-left: 10px;
+  font-style: oblique;
+  font-size: 18px;
+}
+
+.pl{
+  text-align: left;
+  color:blue;
+}
+
+.pr{
+  text-align: right;
+  color: darkgreen;
+}
+
+li{
+  text-decoration: underline;
+  font-family: impact;
+}
+
+.top-img{
+  border-radius: 50%;
+}
+
+.bottom-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2%;
+  width: 50%;
+}
+
+h3{
+  text-align: center;
+}
